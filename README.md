@@ -8,7 +8,7 @@ The script "metadataGenerator" helps you to generate the file metadata.php (nece
 ## Version support
 
 The following OXID eShop versions are supported:
- * 5.0.x / 4.7.x
+ * 5.0.x / 4.7.13+
  * 5.1.x / 4.8.x
 
 ## Installation and usage
